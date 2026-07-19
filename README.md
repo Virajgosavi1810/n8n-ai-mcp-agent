@@ -3,11 +3,6 @@
 ![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue?style=for-the-badge)
-![AI Agent](https://img.shields.io/badge/AI-Agent-success?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-MCP-black?style=for-the-badge)
-![Slack](https://img.shields.io/badge/Slack-MCP-611f69?style=for-the-badge)
-![Firecrawl](https://img.shields.io/badge/Firecrawl-Web%20Scraping-orange?style=for-the-badge)
-![Brave Search](https://img.shields.io/badge/Brave-Search-FB542B?style=for-the-badge)
 
 ---
 
